@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+venv/
+.DS_Store
+
+# Databases
+*.sqlite3
+*.db
+instance/*
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
